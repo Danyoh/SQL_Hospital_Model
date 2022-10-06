@@ -1,5 +1,5 @@
 # SQL_Hospital_Model
-Database course project
+Database course project for 3rd year database course
 
  This project will not only allow us to look deeper into the structure of pharmaceutical databases, but will allow us to apply our knowledge based on what we have learned in this course and create our own functional database
 
